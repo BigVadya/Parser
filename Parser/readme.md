@@ -5,11 +5,9 @@
 
 
 Start:
-pip install selenium
-pip3 install -U selenium
-pip3 install webdriver-manager
+pip install -U selenium webdriver-manager
 
-Искать готовый файл нужно в "Down_filtered_result.json"
+Искать готовый файл нужно в "Down_filtered_result.json".
 Можете сами протестировать если не верите.
 
 
