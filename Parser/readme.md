@@ -1,5 +1,5 @@
 # Attention!!!
-# Говорю заране когда код запущен не закрывать никакие вкладки они сами закроются втечение 10 секунд.
+# Говорю заране когда код запущен не закрывать никакие вкладки они сами закроются в течение 10 секунд.
 # I say in advance when the code is launched, do not close any tabs, they will close themselves within 10 seconds.
 
 
